@@ -5,7 +5,7 @@ _Portfolio de Gilberto Freitas, desarrollador frontend._
 
 ## Comenzando 🚀
 
-_Visita fhttps://freitasgilberto.github.io/ para ingresar a mi portfolio._
+_Visita https://freitasgilberto.github.io/ para ingresar a mi portfolio._
 
 
 ## Construido con 🛠️
