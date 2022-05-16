@@ -1,6 +1,6 @@
-# Portfolio
+# Freitas Gilberto
 
-_Portfolio de Gilberto Freitas, desarrollador frontend._
+_Desarrollador Frontend._
 
 
 ## Comenzando 🚀
